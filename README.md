@@ -8,6 +8,6 @@ It is a 64-bit riced version of Debian 12 (Bookworm).
 - Custom wallpapers
 - Custom Neofetch
 - LibreOffice pre-installed
-- Steam and itch.io pre-installed (for all you epic gamers out there)
+- Steam pre-installed (for all you epic gamers out there)
 
 And always remember: *We live, we love, we lie.*

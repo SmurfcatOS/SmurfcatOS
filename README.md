@@ -9,5 +9,6 @@ It is a 64-bit riced version of Debian 12 (Bookworm).
 - Custom Neofetch
 - LibreOffice pre-installed
 - Steam pre-installed (for all you epic gamers out there)
+- Minetest (open-source Minecraft clone for you even epic-er gamers)
 
 And always remember: *We live, we love, we lie.*

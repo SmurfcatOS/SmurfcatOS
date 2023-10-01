@@ -16,6 +16,9 @@ It is a 64-bit riced version of Debian 12 (Bookworm).
 - Minetest pre-installed (open-source Minecraft clone for you even epic-er gamers)
 - Firefox with custom startpage
 
+## Contact
+Here is our Discord server for support [https://discord.gg/F7yxRzhSMZ](https://discord.gg/F7yxRzhSMZ)
+
 ## Our Thanks To
 - Smurf cat
 - Alan Walker

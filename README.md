@@ -2,11 +2,12 @@
 
 SmurfcatOS is the operating system dedicated to the world renowned Smurf Cat, or Shailushai (Шайлушай).
 
-It is a 64 bit riced version of Debian 12 (Bookworm).
+It is a 64-bit riced version of Debian 12 (Bookworm).
 
 ## Features
 - Custom wallpapers
 - Custom Neofetch
 - LibreOffice pre-installed
-- Steam pre-installed (for all you epic gamers out there)
-- **To be decided**
+- Steam and itch.io pre-installed (for all you epic gamers out there)
+
+And always remember: *We live, we love, we lie.*
